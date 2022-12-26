@@ -1,19 +1,19 @@
-﻿{
+{
     "versiyon":106,
     "bildirim":{
         "bilgi":"H harfi her açılışta, T harfi yalnızca bir seferlik",
-        "metin": "Aşk Olsun",
-        "gosterim":"T",
+        "metin": "Aşk Ol.sun",
+        "gosterim":"H",
         "vakit1":"17/12/2022 17:17",
-        "vakit2":"17/12/2022 17:20"
+        "vakit2":"26/12/2022 23:59"
     },
     "aktifliste": {
         "bilgi":"dinlemeListesiID ile 'dinlemeListeleri' isimli alandaki liste aktifleştirilir ",
         "dinlemeListesiID": 1,
         "cuma":{
-            "bilgi":"P harfi cuma.json listesinin perşembe günü başlayacağını temsil ediyor, C yaparsak cuma günü resferans alınacak (yalnız bu iki gün)",
+            "bilgi":"Perşembe günü başlayacak, cuma günü dinlenecek",
             "aktif":true,
-            "basla":"P 17:29",
+            "basla":"17:29",
             "dinlendir":"16:09"
         },
         "zamanlanmisListe": {
@@ -22,9 +22,9 @@
             "vakit1":"17/12/2022 17:17",
             "vakit2":"17/12/2022 17:20",
             "cuma":{
-                "bilgi":"P harfi cuma.json listesinin perşembe günü başlayacağını temsil ediyor, C yaparsak cuma günü resferans alınacak (yalnız bu iki gün)",
+                "bilgi":"Perşembe günü başlayacak, cuma günü dinlenecek",
                 "aktif":false,
-                "basla":"P 17:29",
+                "basla":"17:29",
                 "dinlendir":"16:09"
             }
         }
@@ -33,98 +33,98 @@
         {
             "id": 16,
             "link": "hakikat",
-            "caption": "---",
-            "title": "birinciSatir \nikinciSatir"
+            "caption": "HAKİKAT NEŞESİ",
+            "explanation": "Hakikat neşesin zevk eyleyen dünyaya meyletmez\nDeğil dünya ve mafiha dahi ukbâya meyletmez"
         },
         {
             "id": 1,
             "link": "baska",
             "caption": "BAŞKA SESLER [BİR.İZ]",
-            "title": "İlkin gezginliğe çıkman gerek ancak sonra yurduna dönebilir o zaman da ötekileri anlayabilirsin. Öteki gören gözle en uzun yoldur insanın içi...\n"
+            "explanation": "İlkin gezginliğe çıkman gerek ancak sonra yurduna dönebilir o zaman da ötekileri anlayabilirsin. Öteki gören gözle en uzun yoldur insanın içi...\n"
         },
         {
             "id": 2,
             "link": "cuma",
             "caption": "ŞARKILAR O'NU SÖYLER [CUMA ÖZEL]",
-            "title": "Mâdem madde aleminde bir mânânın tahakkuku tekrar iledir ve mâdem 'Anılsa her ne dem, ism-i şerîfi feyz-i hazırdır' Hane halkının ruhaniyetlerinin, Ruh-u Habibi Kibriya Efendimiz ile aşina olmaklığı için mütevazı bir katkı, vesile-i şefaat ümidiyle...\n"
+            "explanation": "Mâdem madde aleminde bir mânânın tahakkuku tekrar iledir ve mâdem 'Anılsa her ne dem, ism-i şerîfi feyz-i hazırdır' Hane halkının ruhaniyetlerinin, Ruh-u Habibi Kibriya Efendimiz ile aşina olmaklığı için mütevazı bir katkı, vesile-i şefaat ümidiyle...\n"
         },
         {
             "id": 3,
             "link": "saz",
             "caption": "SAZLARIN NİYÂZI [SÖZSÜZ]",
-            "title": "Sûfi hele gel meclise dinle bu sâzı, gör nice olur tellerin Allâh'a niyazı \nSûfiyâ sanma abes savt-ı kudûm ü mazharı \nÇün beyân olur sadâsından rumûz-ı kün fekân \n"
+            "explanation": "Sûfi hele gel meclise dinle bu sâzı, gör nice olur tellerin Allâh'a niyazı \nSûfiyâ sanma abes savt-ı kudûm ü mazharı \nÇün beyân olur sadâsından rumûz-ı kün fekân \n"
         },
         {
             "id": 4,
             "link": "yeni_mestmp3",
             "caption": "ESKİMEYEN MÛSİKİMİZ [MESTMP3]",
-            "title": "Kadîm bir geleneğin minik bir parçası, müthiş bir medeniyetin, mûsiki dili üzerinden aktarılmasıdır. Bir eğlence müziği değildir, arkasında köklü bir felsefe, derin bir hayat anlayışı, medeniyet tasavvuru olan büyük bir tasavvufi yapının sesler perdeler ve özellikle güftelerle aktarılışıdır"
+            "explanation": "Kadîm bir geleneğin minik bir parçası, müthiş bir medeniyetin, mûsiki dili üzerinden aktarılmasıdır. Bir eğlence müziği değildir, arkasında köklü bir felsefe, derin bir hayat anlayışı, medeniyet tasavvuru olan büyük bir tasavvufi yapının sesler perdeler ve özellikle güftelerle aktarılışıdır"
         },
         {
             "id": 5,
             "link": "yunus",
             "caption": "YUNUS EMRE [BİZİM]",
-            "title": "Eğer aşkı seversen cân olasın, \nKamu derdine hem derman olasın\nEğer dünya seversen mübtelâsın \nMânî sırrına nerde eresin \nYunus’un bu sözü gözlüleredir \nEğer âşık olursan uyanasın\n"
+            "explanation": "Eğer aşkı seversen cân olasın, \nKamu derdine hem derman olasın\nEğer dünya seversen mübtelâsın \nMânî sırrına nerde eresin \nYunus’un bu sözü gözlüleredir \nEğer âşık olursan uyanasın\n"
         },
         {
             "id": 6,
             "link": "cocuk",
             "caption": "ÇOCUK SESİ [KALBİN MEYVESİ]",
-            "title": "Birbirinden güçlü kahramanlar, bir dokunuşta alemi değiştiren elinde sihirli değneklerle gezen cadılar, uçan arabalar, uzay gemileri… Çocuklarımızın dünyasını süsleyen rengarenk dünyanın vazgeçilmez güçleri. İhmal edilen çocukluğumuz için bizim de söyleyeceklerimiz olsun istedik.\n"
+            "explanation": "Birbirinden güçlü kahramanlar, bir dokunuşta alemi değiştiren elinde sihirli değneklerle gezen cadılar, uçan arabalar, uzay gemileri… Çocuklarımızın dünyasını süsleyen rengarenk dünyanın vazgeçilmez güçleri. İhmal edilen çocukluğumuz için bizim de söyleyeceklerimiz olsun istedik.\n"
         },
         {
             "id": 7,
             "link": "mevlana",
             "caption": "HZ. PÎR MEVLÂNÂ [RÛMÎ]",
-            "title": "Aşksız olma ki ölmeyesin. Aşkla öl ki diri kalasın. Aşk ocağında can olasın ya hu\n"
+            "explanation": "Aşksız olma ki ölmeyesin. Aşkla öl ki diri kalasın. Aşk ocağında can olasın ya hu\n"
         },
         {
             "id": 8,
             "link": "tsm",
             "caption": "KLASİK TÜRK MÛSİKİSİ [TSM]",
-            "title": "Türk Musikisinin en seçkin örneklerinin klasik icraları. Kulaktan kalbe giden yolları temizlemek niyetindekiler için seslerle yol alıyoruz; insanlığımıza, hakikat.imiz.e...\n"
+            "explanation": "Türk Musikisinin en seçkin örneklerinin klasik icraları. Kulaktan kalbe giden yolları temizlemek niyetindekiler için seslerle yol alıyoruz; insanlığımıza, hakikat.imiz.e...\n"
         },
         {
             "id": 9,
             "link": "aheng",
             "caption": "ÂHENG-İ ŞAHÂNE [YOLDA]",
-            "title": "Kalp ritmi kavrar, ahenge iştirak eder, hayat o tempoyla akar... Bu akışı hızlandıracak, 130 bpm ve üzeri yüksek tempolu eserlerle ister dikey ister yatay alemdeki, hayra karşı yolculuğunuza ritim tutmak için buradayız.\n"
+            "explanation": "Kalp ritmi kavrar, ahenge iştirak eder, hayat o tempoyla akar... Bu akışı hızlandıracak, 130 bpm ve üzeri yüksek tempolu eserlerle ister dikey ister yatay alemdeki, hayra karşı yolculuğunuza ritim tutmak için buradayız.\n"
         },
         {
             "id": 10,
             "link": "niyazi",
             "caption": "HZ. NİYÂZÎ [MISRÎ]",
-            "title": "Her ne söz kim söylenir âlemde Türkî ya Arab, \nTut kulağın kim sanadır cümle dillerden hitâb! \nCan kulağından gaflet pamuğun çıkar yâ Hû\n"
+            "explanation": "Her ne söz kim söylenir âlemde Türkî ya Arab, \nTut kulağın kim sanadır cümle dillerden hitâb! \nCan kulağından gaflet pamuğun çıkar yâ Hû\n"
         },
         {
             "id": 11,
             "link": "ramazan",
             "caption": "RAMAZÂN-I ŞERİF [SULTÂN]",
-            "title": "Ramazan-ı Şerif’e hazırlanmak ve “Ramazan-ı Şerif geldi” diye ferahlamak lazımdır. Zira Habibi Kibriya efendimizin saadetke buyurduklarına göre “Kim, Ramazan-ı Şerif başladı diye sevinirse Hz. Allah onu nara müstahak olsa bile Cehenneme haram kılar.”\n"
+            "explanation": "Ramazan-ı Şerif’e hazırlanmak ve “Ramazan-ı Şerif geldi” diye ferahlamak lazımdır. Zira Habibi Kibriya efendimizin saadetke buyurduklarına göre “Kim, Ramazan-ı Şerif başladı diye sevinirse Hz. Allah onu nara müstahak olsa bile Cehenneme haram kılar.”\n"
         },
         {
             "id": 12,
             "link": "muharrem",
             "caption": "MUHARREM-ÜL HAREM [MÂTEM]",
-            "title": "Ateş-i aşkla âh eyle sen dem-be-dem \nHer Hüseynî meşrebe Kerbelâ'dır bu âlem \nAğla matemdir, ağla muharremdir bugün...\n"
+            "explanation": "Ateş-i aşkla âh eyle sen dem-be-dem \nHer Hüseynî meşrebe Kerbelâ'dır bu âlem \nAğla matemdir, ağla muharremdir bugün...\n"
         },
         {
             "id": 13,
             "link": "nezih",
             "caption": "NEZİH UZEL [LUX]",
-            "title": "Gezerken yağmurda rüzgârda karda \nİçimde güneşi yakar giderim \nÖmrümü kaplayan karanlıklarda \nBen bir şimşek gibi çakar giderim\n"
+            "explanation": "Gezerken yağmurda rüzgârda karda \nİçimde güneşi yakar giderim \nÖmrümü kaplayan karanlıklarda \nBen bir şimşek gibi çakar giderim\n"
         },
         {
             "id": 14,
             "link": "nutkuserif",
             "caption": "NUTK-U ŞERÎF [HÛ]",
-            "title": "İksir–i âzamdır, nutku ehlullah, \nBir nefeste hâki kimya ederler \nHakikat sırrına onlardır agâh \nVe lâkin sureta ihfâ ederler\n"
+            "explanation": "İksir–i âzamdır, nutku ehlullah, \nBir nefeste hâki kimya ederler \nHakikat sırrına onlardır agâh \nVe lâkin sureta ihfâ ederler\n"
         },
         {
             "id": 15,
             "link": "hu_diyelim",
             "caption": "ÂŞIKLARIN ZİKRİ HÛ'DURUR [İLLÂ HÛ]",
-            "title": "Diler isen gönül yâri \nKi dâim eylegil zâri, \nFenâya ir görüp vârı, \nDigil “Ya Hû ve ya men Hû”\n"
+            "explanation": "Diler isen gönül yâri \nKi dâim eylegil zâri, \nFenâya ir görüp vârı, \nDigil “Ya Hû ve ya men Hû”\n"
         }
     ]
 }
