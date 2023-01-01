@@ -20,7 +20,7 @@
             "bilgi":"bu ayar ilk sorgulanır ve vakitler arasındaysak dikkate alınır aksi halde yukarıdaki liste ayarlanır.",
             "dinlemeListesiID": 16,
             "vakit1":"17/12/2022 17:17",
-            "vakit2":"01/01/2023 17:20",
+            "vakit2":"01/01/2023 20:20",
             "cuma":{
                 "bilgi":"Perşembe günü başlayacak, cuma günü dinlenecek",
                 "aktif":false,
