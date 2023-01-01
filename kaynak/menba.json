@@ -1,5 +1,5 @@
 {
-    "versiyon":105,
+    "versiyon":106,
     "bildirim":{
         "bilgi":"H harfi her açılışta, T harfi yalnızca bir seferlik",
         "metin": "Aşk Ol.sun",
@@ -9,7 +9,7 @@
     },
     "aktifliste": {
         "bilgi":"dinlemeListesiID ile 'dinlemeListeleri' isimli alandaki liste aktifleştirilir ",
-        "dinlemeListesiID": 1,
+        "dinlemeListesiID": 3,
         "cuma":{
             "bilgi":"Perşembe günü başlayacak, cuma günü dinlenecek",
             "aktif":true,
