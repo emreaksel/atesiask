@@ -23,9 +23,9 @@
             "vakit2":"01/01/2023 20:20",
             "cuma":{
                 "bilgi":"Perşembe günü başlayacak, cuma günü dinlenecek",
-                "aktif":false,
+                "aktif":true,
                 "basla":"17:29",
-                "dinlendir":"16:09"
+                "dinlendir":"22:09"
             }
         }
     },
