@@ -2,19 +2,19 @@
     "versiyon":112,
     "bildirim":{
         "bilgi":"H harfi her açılışta, T harfi yalnızca bir seferlik",
-        "metin": "Aşk Ol.sun",
+        "metin": "Aşk Olsun",
         "gosterim":"H",
-        "vakit1":"17/12/2022 17:17",
-        "vakit2":"26/12/2022 23:59"
+        "vakit1":"17/12/2022 17:29",
+        "vakit2":"26/12/2022 16:29"
     },
     "aktifliste": {
         "bilgi":"dinlemeListesiID ile 'dinlemeListeleri' isimli alandaki liste aktifleştirilir ",
-        "dinlemeListesiID": 3,
+        "dinlemeListesiID": 1,
         "cuma":{
             "bilgi":"Perşembe günü başlayacak, cuma günü dinlenecek",
             "aktif":true,
             "basla":"17:29",
-            "dinlendir":"23:59"
+            "dinlendir":"16:29"
         },
         "zamanlanmisListe": {
             "bilgi":"bu ayar ilk sorgulanır ve vakitler arasındaysak dikkate alınır aksi halde yukarıdaki liste ayarlanır.",
@@ -25,7 +25,7 @@
                 "bilgi":"Perşembe günü başlayacak, cuma günü dinlenecek",
                 "aktif":true,
                 "basla":"17:29",
-                "dinlendir":"23:59"
+                "dinlendir":"16:29"
             }
         }
     },
