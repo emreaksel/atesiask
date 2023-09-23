@@ -1,6 +1,6 @@
 {
   "sesler": [
-    {
+     {
     "sira_no": 1,
     "parca_adi": "Yola girme sen",
     "seslendiren": "E. Bülbül",
@@ -7187,8 +7187,32 @@
     "url": "https://www.mediafire.com/file/9ydmh8honssmxi2/dilsizlerhaberi.mp3"
   },
 
-  {
+{
     "sira_no": 1175,
+    "parca_adi": "Bir kerre bakanlar",
+    "seslendiren": "Y. Özel",
+    "url": "https://www.mediafire.com/file/nambqhxq8v3j76b/birkerrebakanlar_ozel.mp3"
+  },
+
+
+{
+    "sira_no": 1176,
+    "parca_adi": "Ben ben isem",
+    "seslendiren": "A. Özhan",
+    "url": "https://www.mediafire.com/file/vmflmla45yay1t4/benbenisem_ozhan.mp3"
+  },
+
+
+{
+    "sira_no": 1177,
+    "parca_adi": "Dem",
+    "seslendiren": "K. Erguner",
+    "url": "https://www.mediafire.com/file/vnblwyinj5gjryz/dem_erguner.mp3"
+  },
+
+
+  {
+    "sira_no": 1178,
     "parca_adi": "Tac marifet tâcıdır",
     "seslendiren": "A. Bektaş",
     "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
