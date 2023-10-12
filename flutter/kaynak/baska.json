@@ -1,6 +1,7 @@
 {
-  "sesler": [
-     {
+  "sesler": 
+  [
+  {
     "sira_no": 1,
     "parca_adi": "Yola girme sen",
     "seslendiren": "E. Bülbül",
@@ -7210,12 +7211,32 @@
     "url": "https://www.mediafire.com/file/vnblwyinj5gjryz/dem_erguner.mp3"
   },
 
+{
+    "sira_no": 1178,
+    "parca_adi": "Kuşlar döner",
+    "seslendiren": "A. Yavaşça",
+    "url": "https://www.mediafire.com/file/z632e6h6y5ea4i1/kuslardoner_yavasca.mp3"
+  },
+
+{
+    "sira_no": 1179,
+    "parca_adi": "Evvelimde dinmez idi",
+    "seslendiren": "A. Kadri",
+    "url": "https://www.mediafire.com/file/7dezl8lx5tk2bmv/duyar.mp3"
+  },
+
+{
+    "sira_no": 1180,
+    "parca_adi": "Gel diyemem",
+    "seslendiren": "A. Kadri",
+    "url": "https://www.mediafire.com/file/pklbfcwxf1z30a0/geldiyemem.mp3"
+  },
 
   {
-    "sira_no": 1178,
+    "sira_no": 1181,
     "parca_adi": "Tac marifet tâcıdır",
     "seslendiren": "A. Bektaş",
     "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
   }
-  ]
+]
 }
