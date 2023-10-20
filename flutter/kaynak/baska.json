@@ -7225,18 +7225,42 @@
     "url": "https://www.mediafire.com/file/7dezl8lx5tk2bmv/duyar.mp3"
   },
 
+
 {
     "sira_no": 1180,
+    "parca_adi": "Sevgi baht olmuş",
+    "seslendiren": "i. Coşar",
+    "url": "https://www.mediafire.com/file/6i4j946h59uz254/sevgibaht_cosar.mp3"
+  },
+
+{
+    "sira_no": 1181,
     "parca_adi": "Gel diyemem",
     "seslendiren": "A. Kadri",
     "url": "https://www.mediafire.com/file/pklbfcwxf1z30a0/geldiyemem.mp3"
   },
 
+{
+    "sira_no": 1182,
+    "parca_adi": "işte gidiyorum",
+    "seslendiren": "A. Mahzuni",
+    "url": "https://www.mediafire.com/file/ec2b7qfehz34der/istegidiyorum.mp3"
+  },
+
+{
+    "sira_no": 1183,
+    "parca_adi": "Savaşmayan dua",
+    "seslendiren": "A. Kadri",
+    "url": "https://www.mediafire.com/file/vd4il1lvg029tl6/savasmayan_dua.mp3"
+  },
+
   {
-    "sira_no": 1181,
+    "sira_no": 1184,
     "parca_adi": "Tac marifet tâcıdır",
     "seslendiren": "A. Bektaş",
     "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
   }
+
+
 ]
 }
