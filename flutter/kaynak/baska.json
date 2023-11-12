@@ -1,6 +1,5 @@
-{
-  "sesler": 
-  [
+﻿{"sesler":
+[
   {
     "sira_no": 1,
     "parca_adi": "Yola girme sen",
@@ -7276,8 +7275,18 @@
     "seslendiren": "A. Aşk",
     "url": "https://www.mediafire.com/file/nia2hemug6jorg1/cicegin_zikri.mp3"
   },
-  {
+
+
+{
     "sira_no": 1187,
+    "parca_adi": "Sana gizli bir",
+    "seslendiren": "A. Yavaşça",
+    "url": "https://www.mediafire.com/file/k7mkz2h57q1f650/sanagizli.mp3"
+  },
+
+
+  {
+    "sira_no": 1188,
     "parca_adi": "Tac marifet tâcıdır",
     "seslendiren": "A. Bektaş",
     "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
