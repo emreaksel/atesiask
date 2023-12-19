@@ -7312,8 +7312,72 @@
     "url": "https://www.mediafire.com/file/ajf3zrs2qom89iq/hicaz_meskten.mp3"
   },
 
-  {
+{
     "sira_no": 1192,
+    "parca_adi": "Kürdi rebap taksim",
+    "seslendiren": "R. Kaya",
+    "url": "https://www.mediafire.com/download/ml55l33h5qhxhi6/kurdirebabtaksimi.mp3"
+  },
+
+{
+    "sira_no": 1193,
+    "parca_adi": "Kalbinde ara",
+    "seslendiren": "A. Aşk",
+    "url": "https://www.mediafire.com/file/jxhzvolh9yedinv/kalbindeara.mp3"
+  },
+
+{
+    "sira_no": 1194,
+    "parca_adi": "Dilberim",
+    "seslendiren": "i. Hasanov",
+    "url": "https://www.mediafire.com/file/1cixvbh5f1g32u8/dilberim_hasanov.mp3"
+  },
+
+{
+    "sira_no": 1195,
+    "parca_adi": "Mâzideki hâlimle",
+    "seslendiren": "Z. Müren",
+    "url": "https://www.mediafire.com/file/ffut3fv745vfcje/mazideki.mp3"
+  },
+
+{
+    "sira_no": 1196,
+    "parca_adi": "Aşkı seninle tattı",
+    "seslendiren": "S. Kamacı",
+    "url": "https://www.mediafire.com/file/r74kioz6coqzhi2/seninletat.mp3"
+  },
+
+{
+    "sira_no": 1197,
+    "parca_adi": "Hicaz-humayun Peşrev",
+    "seslendiren": "U. Sezikli",
+    "url": "https://www.mediafire.com/file/iqm1miqru41cj1u/hicazhumayun.mp3"
+  },
+
+{
+    "sira_no": 1198,
+    "parca_adi": "Gece-gündüz zikrimiz",
+    "seslendiren": "U. Sezikli",
+    "url": "https://www.mediafire.com/file/jqi2y7arfgbnq9d/gecegunduz_nikriz.mp3"
+  },
+
+{
+    "sira_no": 1199,
+    "parca_adi": "Muhabbet eyledim",
+    "seslendiren": "G. Yarkın",
+    "url": "https://www.mediafire.com/file/9dg39bgpb9gshrm/muhabbeteyledim.mp3"
+  },
+
+{
+    "sira_no": 1200,
+    "parca_adi": "Diken satan adam",
+    "seslendiren": "A. Aşk",
+    "url": "https://www.mediafire.com/file/b3yx591cbeqkm7s/dikensatanadam.mp3"
+  },
+
+
+  {
+    "sira_no": 1201,
     "parca_adi": "Tac marifet tâcıdır",
     "seslendiren": "A. Bektaş",
     "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
@@ -7321,4 +7385,5 @@
 
 
 ]
+
 }
