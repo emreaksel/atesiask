@@ -1,4 +1,5 @@
-[
+{
+  "sesler": [
     {
       "sira_no": 1,
       "parca_adi": "Yola girme sen",
@@ -7027,8 +7028,189 @@
     },
     {
       "sira_no": 1172,
+      "parca_adi": "Gönül nedir bilene",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/v2sz0ndtorih82j/gonulnedir.mp3"
+    },
+    {
+      "sira_no": 1173,
+      "parca_adi": "Ey benim nazlı cananım",
+      "seslendiren": "A. Çağan",
+      "url": "https://www.mediafire.com/file/17whktvn6xlm6ck/eybenimnazli_acagan.mp3"
+    },
+    {
+      "sira_no": 1174,
+      "parca_adi": "Dilsizler haberini",
+      "seslendiren": "M. Kemiksiz",
+      "url": "https://www.mediafire.com/file/9ydmh8honssmxi2/dilsizlerhaberi.mp3"
+    },
+    {
+      "sira_no": 1175,
+      "parca_adi": "Bir kerre bakanlar",
+      "seslendiren": "Y. Özel",
+      "url": "https://www.mediafire.com/file/nambqhxq8v3j76b/birkerrebakanlar_ozel.mp3"
+    },
+    {
+      "sira_no": 1176,
+      "parca_adi": "Ben ben isem",
+      "seslendiren": "A. Özhan",
+      "url": "https://www.mediafire.com/file/vmflmla45yay1t4/benbenisem_ozhan.mp3"
+    },
+    {
+      "sira_no": 1177,
+      "parca_adi": "Dem",
+      "seslendiren": "K. Erguner",
+      "url": "https://www.mediafire.com/file/vnblwyinj5gjryz/dem_erguner.mp3"
+    },
+    {
+      "sira_no": 1178,
+      "parca_adi": "Kuşlar döner",
+      "seslendiren": "A. Yavaşça",
+      "url": "https://www.mediafire.com/file/z632e6h6y5ea4i1/kuslardoner_yavasca.mp3"
+    },
+    {
+      "sira_no": 1179,
+      "parca_adi": "Evvelimde dinmez idi",
+      "seslendiren": "A. Kadri",
+      "url": "https://www.mediafire.com/file/7dezl8lx5tk2bmv/duyar.mp3"
+    },
+    {
+      "sira_no": 1180,
+      "parca_adi": "Sevgi baht olmuş",
+      "seslendiren": "i. Coşar",
+      "url": "https://www.mediafire.com/file/6i4j946h59uz254/sevgibaht_cosar.mp3"
+    },
+    {
+      "sira_no": 1181,
+      "parca_adi": "Gel diyemem",
+      "seslendiren": "A. Kadri",
+      "url": "https://www.mediafire.com/file/pklbfcwxf1z30a0/geldiyemem.mp3"
+    },
+    {
+      "sira_no": 1182,
+      "parca_adi": "işte gidiyorum",
+      "seslendiren": "A. Mahzuni",
+      "url": "https://www.mediafire.com/file/ec2b7qfehz34der/istegidiyorum.mp3"
+    },
+    {
+      "sira_no": 1183,
+      "parca_adi": "Savaşmayan dua",
+      "seslendiren": "A. Kadri",
+      "url": "https://www.mediafire.com/file/vd4il1lvg029tl6/savasmayan_dua.mp3"
+    },
+    {
+      "sira_no": 1184,
+      "parca_adi": "Bulan özünü",
+      "seslendiren": "V. Dalsaldı",
+      "url": "https://www.mediafire.com/download/19q9nq4rd3zkxpb/bulanozunu_dalsaldi.mp3"
+    },
+    {
+      "sira_no": 1185,
+      "parca_adi": "Gizli sırlar olsun ayan",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/skq9bgotk08kiwp/yalvara.mp3"
+    },
+    {
+      "sira_no": 1186,
+      "parca_adi": "Çiçeğin zikri",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/nia2hemug6jorg1/cicegin_zikri.mp3"
+    },
+    {
+      "sira_no": 1187,
+      "parca_adi": "Sana gizli bir",
+      "seslendiren": "A. Yavaşça",
+      "url": "https://www.mediafire.com/file/k7mkz2h57q1f650/sanagizli.mp3"
+    },
+    {
+      "sira_no": 1188,
+      "parca_adi": "Yar Ali yar",
+      "seslendiren": "A. Aydin",
+      "url": "https://www.mediafire.com/file/43nw2bb4rgn62lc/yaraliyar_aydin.mp3"
+    },
+    {
+      "sira_no": 1189,
+      "parca_adi": "Aynayı tuttum yüzüme",
+      "seslendiren": "C. Asitanesi",
+      "url": "https://www.mediafire.com/file/1vh75lsnstwbez9/aynayi_aski.mp3"
+    },
+    {
+      "sira_no": 1190,
+      "parca_adi": "Ey gönül bir derde düş",
+      "seslendiren": "M. Irkilata",
+      "url": "https://www.mediafire.com/file/8w66ewee8ziy0z5/eygonulbirderde.mp3"
+    },
+    {
+      "sira_no": 1191,
+      "parca_adi": "Hicaz meşk-ten",
+      "seslendiren": "C. Asitanesi",
+      "url": "https://www.mediafire.com/file/ajf3zrs2qom89iq/hicaz_meskten.mp3"
+    },
+    {
+      "sira_no": 1192,
+      "parca_adi": "Kürdi rebap taksim",
+      "seslendiren": "R. Kaya",
+      "url": "https://www.mediafire.com/download/ml55l33h5qhxhi6/kurdirebabtaksimi.mp3"
+    },
+    {
+      "sira_no": 1193,
+      "parca_adi": "Kalbinde ara",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/jxhzvolh9yedinv/kalbindeara.mp3"
+    },
+    {
+      "sira_no": 1194,
+      "parca_adi": "Dilberim",
+      "seslendiren": "i. Hasanov",
+      "url": "https://www.mediafire.com/file/1cixvbh5f1g32u8/dilberim_hasanov.mp3"
+    },
+    {
+      "sira_no": 1195,
+      "parca_adi": "Mâzideki hâlimle",
+      "seslendiren": "Z. Müren",
+      "url": "https://www.mediafire.com/file/ffut3fv745vfcje/mazideki.mp3"
+    },
+    {
+      "sira_no": 1196,
+      "parca_adi": "Aşkı seninle tattı",
+      "seslendiren": "S. Kamacı",
+      "url": "https://www.mediafire.com/file/r74kioz6coqzhi2/seninletat.mp3"
+    },
+    {
+      "sira_no": 1197,
+      "parca_adi": "Hicaz-humayun Peşrev",
+      "seslendiren": "U. Sezikli",
+      "url": "https://www.mediafire.com/file/iqm1miqru41cj1u/hicazhumayun.mp3"
+    },
+    {
+      "sira_no": 1198,
+      "parca_adi": "Gece-gündüz zikrimiz",
+      "seslendiren": "U. Sezikli",
+      "url": "https://www.mediafire.com/file/jqi2y7arfgbnq9d/gecegunduz_nikriz.mp3"
+    },
+    {
+      "sira_no": 1199,
+      "parca_adi": "Muhabbet eyledim",
+      "seslendiren": "G. Yarkın",
+      "url": "https://www.mediafire.com/file/9dg39bgpb9gshrm/muhabbeteyledim.mp3"
+    },
+    {
+      "sira_no": 1200,
+      "parca_adi": "Diken satan adam",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/b3yx591cbeqkm7s/dikensatanadam.mp3"
+    },
+    {
+      "sira_no": 1201,
+      "parca_adi": "Elçi kim",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/pfz69zqatyj9quo/elci_kim.mp3"
+    },
+    {
+      "sira_no": 1202,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
     }
   ]
+}
