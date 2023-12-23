@@ -1,5 +1,6 @@
 {
-  "sesler": [
+  "sesler":
+  [
     {
       "sira_no": 1,
       "parca_adi": "Yola girme sen",
@@ -7206,8 +7207,31 @@
       "seslendiren": "A. Aşk",
       "url": "https://www.mediafire.com/file/pfz69zqatyj9quo/elci_kim.mp3"
     },
+
     {
       "sira_no": 1202,
+      "parca_adi": "Ey Allahım",
+      "seslendiren": "S. Özer",
+      "url": "https://www.mediafire.com/file/f5z2ciov0s9rvmv/eyallahim_ozer.mp3"
+    },
+
+
+    {
+      "sira_no": 1203,
+      "parca_adi": "Ağlama gözlerim",
+      "seslendiren": "A. Çiçek",
+      "url": "https://www.mediafire.com/file/sk8jp2breildd6z/aglama_gozlerim.mp3"
+    },
+
+    {
+      "sira_no": 1204,
+      "parca_adi": "Derviş bağrı",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/7yni0mj3zofsjky/sohbet_dervisbagri_zikr.mp3"
+    },
+
+    {
+      "sira_no": 1205,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
